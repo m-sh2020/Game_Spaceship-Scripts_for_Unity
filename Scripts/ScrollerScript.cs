@@ -12,7 +12,6 @@ public class ScrollerScript : MonoBehaviour
     {
         startPosition=transform.position;
     }
-
     // Update is called once per frame
     void Update()
     {
